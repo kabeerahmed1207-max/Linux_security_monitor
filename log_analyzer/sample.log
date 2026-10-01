@@ -1,0 +1,10 @@
+Sep 28 10:15:01 server sshd[1234]: Failed password for admin from 192.168.1.50 port 42110 ssh2
+Sep 28 10:15:05 server sshd[1235]: Failed password for admin from 192.168.1.50 port 42111 ssh2
+Sep 28 10:15:10 server sshd[1236]: Failed password for root from 192.168.1.50 port 42112 ssh2
+Sep 28 10:15:15 server sshd[1237]: Failed password for root from 192.168.1.50 port 42113 ssh2
+Sep 28 10:15:20 server sshd[1238]: Failed password for admin from 192.168.1.50 port 42114 ssh2
+Sep 28 10:20:01 server sshd[1239]: Failed password for test from 10.0.0.25 port 43100 ssh2
+
+Sep 28 10:25:01 server sshd[1240]: Accepted password for kabeer from 192.168.1.100 port 45001 ssh2
+Sep 28 10:26:01 server sshd[1241]: Accepted password for admin from 10.0.0.10 port 45002 ssh2
+Sep 28 11:00:01 server sshd[2000]: Failed password for admin from 172.16.0.25 port 50001 ssh2Sep 30 12:40:01 server sshd[3000]: Failed password for admin from 192.168.1.55 port 50001 ssh2
