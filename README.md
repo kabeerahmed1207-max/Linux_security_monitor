@@ -255,6 +255,24 @@ Python automation
 Error handling
 Unit testing
 CLI-based security tools
+
+## Project Screenshots
+
+### Log Analyzer
+
+![Log Analyzer](screenshots/log-analyzer.png)
+
+### File Integrity Monitoring
+
+![File Integrity Monitoring](screenshots/fim-alert.png)
+
+### Unit Tests
+
+![Unit Tests](screenshots/unit-tests.png)
+
+
+
+
 💡 Future Improvements
 
 Planned improvements include:
